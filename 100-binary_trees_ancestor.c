@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 /**
  * bt_find_lca - recurses to find lowest common ancestor (LCA)
- * @root: node to recursively root to check 
- * @first: first node 
+ * @root:node to recursively root to check
+ * @first: first node
  * @second: second node
  * Return: LCA return NULL
  */
